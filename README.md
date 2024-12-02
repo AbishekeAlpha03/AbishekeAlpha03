@@ -1,7 +1,4 @@
-## 👋 Hello there!  
-  
-
-![]()  
+## 👋 Hello there!
   
 
 <a href="https://github.com/AbishekeAlpha03" target="_blank">
@@ -10,7 +7,6 @@
 <a href="https://linkedin.com/in/abisheke-selvam" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
 
 
 
@@ -25,24 +21,7 @@ Hi, I'm Abisheke Selvam, a passionate Full Stack Developer based in Chennai 🌍
 - 🤖 AI and automation tool integration to enhance system interoperability and efficiency  
 
 📚 Education:  
-- B.Tech in Information Technology from Chennai Institute of Technology (CGPA: 9.2/10) 🎓    
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+- B.Tech in Information Technology from Chennai Institute of Technology (CGPA: 9.2/10) 🎓
 
 
 ## Languages and Tools  
@@ -82,9 +61,7 @@ Hi, I'm Abisheke Selvam, a passionate Full Stack Developer based in Chennai 🌍
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /></a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="25" /></a>  
-</div>  
-
-<br/>  
+</div>
 
 
 ## Github Stats  
@@ -96,11 +73,7 @@ Hi, I'm Abisheke Selvam, a passionate Full Stack Developer based in Chennai 🌍
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbishekeAlpha03&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
-
-<br/>  
-
-  
+</td></tr></table> 
 
 <br/>  
 

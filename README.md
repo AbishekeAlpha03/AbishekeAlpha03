@@ -77,7 +77,7 @@ Hi, I'm Abisheke Selvam, a passionate Full Stack Developer based in Chennai 🌍
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=AbishekeAlpha03&&style=flat-square)  
   
 
 <br/>  

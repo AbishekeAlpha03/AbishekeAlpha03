@@ -77,7 +77,9 @@ Hi, I'm Abisheke Selvam, a passionate Full Stack Developer based in Chennai 🌍
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=AbishekeAlpha03&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=AbishekeAlpha03&&style=for-the-badge)  
+
+![Static Badge](https://img.shields.io/badge/Coffee_Drank_Counter-4-s?style=for-the-badge)
   
 
 <br/>  
@@ -86,4 +88,3 @@ Hi, I'm Abisheke Selvam, a passionate Full Stack Developer based in Chennai 🌍
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
